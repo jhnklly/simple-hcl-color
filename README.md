@@ -1,2 +1,2 @@
-# simple-hcl-color
-Simple HCL color picker.
+# simple-color
+Simple color picker
